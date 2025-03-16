@@ -1,5 +1,5 @@
 
-# 🛒 Nest - eCommerce HTML Template
+# 🛒 Nest - eCommerce
 Nest is a modern and responsive eCommerce website template designed for online stores, supermarkets, and organic food shops. Built with HTML, CSS, and JavaScript, it features a clean UI, smooth animations, and a user-friendly shopping experience.
 
 🚀 Features:
